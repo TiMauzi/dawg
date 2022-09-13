@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dawg:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dawg_jar</output-path>
+    <root id="archive" name="dawg.jar">
+      <element id="module-output" name="dawg" />
+    </root>
+  </artifact>
+</component>
